@@ -12,7 +12,7 @@
   "antiInbox": false,
   "language": "en",
   "notesLanguage": "change language using ISO 639-1 code",
-  "nickNameBot": "XUDI OKAY?",
+  "nickNameBot": "Rikuu?",
   "prefix": "/",
   "enableTypingIndicator": true,
   "typingDuration": 2000,
@@ -30,8 +30,8 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "61592832917083",
-    " ",
+    "502799434",
+    "100017415938684",
     " "
   ],
   "reactUnsend": {
